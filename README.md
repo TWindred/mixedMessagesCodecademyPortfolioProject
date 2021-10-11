@@ -2,7 +2,7 @@
 
 ### Project Description
 
-This project is designed to produce a randomly generated message whenever a user uses the program, and then save the randomly generated message.
+This project is designed to produce a randomly generated message whenever a user uses the program.
 
 ### Project aims
 
@@ -10,7 +10,7 @@ This is a portfolio project from codecademy to help familiarise myself better wi
 
 ### Technologies
 
-This project is built in javascript.
+*Javascript
 
 ### Status
 
