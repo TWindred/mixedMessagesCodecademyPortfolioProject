@@ -13,6 +13,10 @@ This is a portfolio project from codecademy to help familiarise myself better wi
 -Javascript
 -Node
 
+### How to run to program
+
+You will need to download the program and node.js to run the program locally.
+
 ### Status
 
 Project completed.
