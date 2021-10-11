@@ -10,9 +10,9 @@ This is a portfolio project from codecademy to help familiarise myself better wi
 
 ### Technologies
 
-*Javascript
-*Node
+-Javascript
+-Node
 
 ### Status
 
-Project ongoing.
+Project completed.
