@@ -2,7 +2,7 @@
 
 ### Project Description
 
-This project is designed to produce a randomly generated message whenever a user uses the program.
+This project is designed to produce a randomly generated inspirational message whenever a user uses the program.
 
 ### Project aims
 
